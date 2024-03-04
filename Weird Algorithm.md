@@ -1,6 +1,4 @@
 #### Link: https://cses.fi/problemset/task/1068
-#### [Solution](https://github.com/Akasxh/CSES/new/main#solution-1)
-
 
 Time limit: 1.00 s
 Memory limit: 512 MB
